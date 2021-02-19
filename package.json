@@ -21,7 +21,6 @@
     "d3-hierarchy": "^2.0.0"
   },
   "devDependencies": {
-    "@aligov/gov-rule-tree": "0.0.12",
     "@babel/cli": "^7.12.1",
     "@babel/core": "^7.4.5",
     "@babel/plugin-proposal-class-properties": "^7.4.4",
